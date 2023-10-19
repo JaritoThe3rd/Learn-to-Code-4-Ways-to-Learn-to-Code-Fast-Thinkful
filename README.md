@@ -197,3 +197,4 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 - The most frustrating phase to witness from an educator and participants of the industry.
 - Programming may not be perfect for anyone, but small things can be a huge success for someone.
+- Still very early and you've dealth with some bugs.
