@@ -76,6 +76,13 @@ Either it's duh or why?
 
 - Happiness is temporary and fullfilment is eternal.
 
+  **The concept of goal setting from aspiring software developers**
+--------------------------------------------------------------------
+
+1. Maintaining marriage and time with kids
+2. Getting a career within the field
+3. Achieving personal goal like winning a soccer league
+
 Your learning circle should be:
 -----------------------------------
 
