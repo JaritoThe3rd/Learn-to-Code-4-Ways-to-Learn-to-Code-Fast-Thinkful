@@ -48,6 +48,15 @@ Practice atleast 5 times:
 
 - While in a bootcamp practice after the end of the day, week, month. 1 hour waking up and 1 hour before sleeping.
 
+**5 Areas where you should be efficient with your time while learning to code fast**
+====================================================================================
+
+Either it's duh or why?
+1. Asking for help (Find people or in an environment where you can ask people)
+2. Keeping in mind the content whether it's text based or video base
+3. Build something the highest quality you can it better have a damn good portfolio (Avoid sloppy projects it should be good enough in your portfolio.)
+4. Allocate your time to teach your peers, wife, or dog.
+
 Your learning circle should be:
 -----------------------------------
 
