@@ -56,6 +56,8 @@ Either it's duh or why?
 2. Keeping in mind the content whether it's text based or video base. (Beware of extra materials)
 3. Build something the highest quality you can it better have a damn good portfolio. (Avoid sloppy projects it should be good enough in your portfolio.)
 4. Allocate your time to teach your peers, wife, or dog. (Give time to teach someone else)
+   
+![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/86b8b03a-d88d-47a4-ae4d-48b33b4b7e78)
 
 Your learning circle should be:
 -----------------------------------
