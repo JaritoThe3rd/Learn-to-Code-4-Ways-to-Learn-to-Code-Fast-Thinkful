@@ -26,17 +26,17 @@ To the people who are lazy. This is literally in the description.
 
 **Notes about the video**
 ========================
-The importance of learning patterns:
+**The importance of learning patterns:**
 ------------------------------------
  1. Always pay attention to patterns as you're learning every concept.
  2. Spend more time practicing than memorizing. Especially when getting exposed consistently to different concepts will become 2nd nature.
-Re-try old problems:
+**Re-try old problems:**
 ---------------------
 1. Writing down what you think you have to do. (Pseudo coding)
 Practice atleast 5 times:
 -------------------------
 1. Re-do the problems you've done 5-7 times in edabit and pick a certain tag or topic and pick a level. (https://edabit.com/)
-Allocate your time:
+**Allocate your time:**
 ---------------------
 1. 
 Your learning circle should be:
