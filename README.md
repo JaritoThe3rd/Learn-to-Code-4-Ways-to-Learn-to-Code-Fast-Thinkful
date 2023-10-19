@@ -122,6 +122,7 @@ Your learning circle should be:
 - Make sure do a project that you understand and can explain it.
 
 5. Teaching
-
-- Feymann technique write notes in github to teach yourself when forgetting certain code structures.
+   
+- Most people skip the teaching part, which is really important for executing what you learned.
+- Make a youtube video about what you learned and watch how you explained it.
 
