@@ -109,14 +109,17 @@ Your learning circle should be:
 
 - Do your research AHEAD of time.
 - Avoid getting surprised by the content.
+- Prevents rabbitholes where you're wandering to random content.
 
 2 Content
 
-- Knowing if you learn more while doing or reading.
+- Now you're exposed through research. I don't learn by reading also and video, but by practicing multiple times.
+- Some boot camps are video based and no mentors which is not quite effective.
 
 3. Building
    
-- Build your own projects in every concept to build upon and remember.
+- Make sure its portfolio quality.
+- Make sure do a project that you understand and can explain it.
 
 5. Teaching
 
