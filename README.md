@@ -63,6 +63,14 @@ Either it's duh or why?
 
 - Prioritization is really crucial for allocating your time. Focus on categories and ranking these concepts you're trying to learn. (Disciplined with a routine)
 
+**4 Buckets of Prioritization**
+--------------------------------
+
+1. Family time
+2. Boot camp journey or self-studying coding
+3. Health (Exercise, Sleep 7 hours, food you're eating, and proper and consistent hygiene)
+4. Personal time and friends whether related or unrelated to your career
+
 Your learning circle should be:
 -----------------------------------
 
