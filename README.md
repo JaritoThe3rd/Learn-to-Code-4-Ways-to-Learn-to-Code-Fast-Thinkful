@@ -95,6 +95,9 @@ Either it's duh or why?
 2. "Plan it now": Important, but still plan when to do it
 3. "Delegate it now": Have your partner or friends help you with something that's urgent, but low value
 4. "Remove it now": Place it at the bottom line
+
+![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/a07ffbe6-295d-4014-a35f-e89a0afb5705)
+
    
 Your learning circle should be:
 -----------------------------------
