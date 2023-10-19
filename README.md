@@ -76,13 +76,26 @@ Either it's duh or why?
 
 - Happiness is temporary and fullfilment is eternal.
 
-  **The concept of goal setting from aspiring software developers**
+
+**The concept of goal setting from aspiring software developers**
 --------------------------------------------------------------------
 
 1. Maintaining marriage and time with kids
 2. Getting a career within the field
 3. Achieving personal goal like winning a soccer league
 
+**How to help yourself to prioritize by using Eisenhower's matrix**
+---------------------------------------------------------------------
+
+- Provide value happiness will follow up, but what's important to other person may not be important to others.
+
+  ![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/8429d185-0912-4990-b14a-afc6e1585d64)
+
+1. "Do it now": (Book: 7 habits of important people)
+2. "Plan it now": Important, but still plan when to do it
+3. "Delegate it now": Have your partner or friends help you with something that's urgent, but low value
+4. "Remove it now": Place it at the bottom line
+   
 Your learning circle should be:
 -----------------------------------
 
