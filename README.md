@@ -151,5 +151,23 @@ By Erik Trautman**
 https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 **Phase I: The Hand-Holding Honeymoon**
---------------------------------
+---------------------------------------
 
+- Learn to code movement has softened the stereotype that coding is incredibly difficult. It is really tough to learn from the beginning, especially if fear is not actually the problem but it's the overabundance of hopes and high expectations.
+
+![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/fb9f577f-b0b2-4226-9832-d7603d041439)
+
+**Charting The Path Ahead**
+----------------------------
+
+- Confidence is highly correlated with your happiness and because the point where your confidence and capabilities match is the best proxy. When considering you're "job ready".
+
+![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/d9e5c812-2b76-4e5f-ba7a-ebe2274e96a0)
+
+1. The Hand Holding Honeymoon
+
+- joy-filled through highly polished resources teaching you things that seem tricky but are totally do-able with their support. (Learning basic syntax but feel great about your early accomplishments)
+
+2. The Cliff of Confusion
+
+- Painful realization that you can't do anything in your own yet without asking any questions and making too many mistakes.
