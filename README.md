@@ -111,7 +111,7 @@ Your learning circle should be:
 - Avoid getting surprised by the content.
 - Prevents rabbitholes where you're wandering to random content.
 
-2 Content
+2. Content
 
 - Now you're exposed through research. I don't learn by reading also and video, but by practicing multiple times.
 - Some boot camps are video based and no mentors which is not quite effective.
@@ -125,4 +125,7 @@ Your learning circle should be:
    
 - Most people skip the teaching part, which is really important for executing what you learned.
 - Make a youtube video about what you learned and watch how you explained it.
+
+![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/97f8e389-4a0e-4100-8134-7b78c4adcab0)
+
 
