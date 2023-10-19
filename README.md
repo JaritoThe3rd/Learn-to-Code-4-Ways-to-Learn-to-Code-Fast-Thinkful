@@ -89,7 +89,7 @@ Either it's duh or why?
 
 - Provide value happiness will follow up, but what's important to other person may not be important to others.
 
-  ![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/8429d185-0912-4990-b14a-afc6e1585d64)
+![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/8429d185-0912-4990-b14a-afc6e1585d64)
 
 1. "Do it now": (Book: 7 habits of important people)
 2. "Plan it now": Important, but still plan when to do it
@@ -102,7 +102,23 @@ Either it's duh or why?
 Your learning circle should be:
 -----------------------------------
 
-1. Research (Knowing where to search the structure of your study material)
-2. Content (Knowing if you learn more while doing or reading)
-3. Building (Build your own projects in every concept to build upon and remember)
-4. Teaching (Feymann technique write notes in github to teach yourself when forgetting certain code structures)
+![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/7b6edb86-34e1-4aca-bed2-ead07f071275)
+
+
+1. Research
+
+- Do your research AHEAD of time.
+- Avoid getting surprised by the content.
+
+2 Content
+
+- Knowing if you learn more while doing or reading.
+
+3. Building
+   
+- Build your own projects in every concept to build upon and remember.
+
+5. Teaching
+
+- Feymann technique write notes in github to teach yourself when forgetting certain code structures.
+
