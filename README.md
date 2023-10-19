@@ -59,7 +59,9 @@ Either it's duh or why?
    
 ![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/86b8b03a-d88d-47a4-ae4d-48b33b4b7e78)
 
-- After mentoring a lot of aspiring software developers they realized that allocating time for yourself, family, partner, pets, and friends that helps you get there not the friends that are just randomly wasting your time.
+- After mentoring a lot of aspiring software developers they realized that allocating time for yourself, family, partner, pets, and friends that helps you get there not the friends that are just randomly wasting your time. (Happy wife Happy life)
+
+- Prioritization is really crucial for allocating your time. Focus on categories and ranking these concepts you're trying to learn. (Disciplined with a routine)
 
 Your learning circle should be:
 -----------------------------------
