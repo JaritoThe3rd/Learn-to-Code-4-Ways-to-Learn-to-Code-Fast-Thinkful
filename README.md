@@ -268,15 +268,31 @@ You don't know what you don't know.
 **II: Surviving the Cliff of Confusion**
 ----------------------------------------
 
-1. Work with someone else, even another beginner. You'll be surprised how much easier it is to debug an impossible error when sharing two pairs of eyes.
+1. **Work with someone else**, even another beginner. You'll be surprised how much easier it is to debug an impossible error when sharing two pairs of eyes.
 
-2. Read other people's code to get comfortable with good patterns. Try to understand why the author did what they did. You wouldn't try to become a novelist without reading books as well, would you? We'll focus on this in an upcoming post but, for now, keep your eyes open for any small problems or projects that other people have written solutions for.
+2. **Read other people's code** to get comfortable with good patterns. Try to understand why the author did what they did. You wouldn't try to become a novelist without reading books as well, would you? We'll focus on this in an upcoming post but, for now, keep your eyes open for any small problems or projects that other people have written solutions for.
 
-3. Start small and build constantly. You should have interesting big projects in mind for the future, but you'll need to get comfortable debugging and searching for resources with bite-sized challenges. There's really no substitute for experience.
+3. **Start small and build constantly**. You should have interesting big projects in mind for the future, but you'll need to get comfortable debugging and searching for resources with bite-sized challenges. There's really no substitute for experience.
 
 **III: Surviving the Desert of Despair**
 ----------------------------------------
 
-1. Have a strong goal for what you want to accomplish because otherwise you will end up chasing your tail learning all kinds of interesting but ultimately unproductive things. If you have the time to spare, by all means skip this...
+1. **Have a strong goal** for what you want to accomplish because otherwise you will end up chasing your tail learning all kinds of interesting but ultimately unproductive things. If you have the time to spare, by all means skip this...
 
-2. Find a strong path which leads directly to the goal you've set and verify that it will actually get you there. This is where you need to dig deeper than the marketing slogans and smiling faces on course websites or book jackets to ask "will this help me accomplish the goal I've set or not?"
+2. **Find a strong path** which leads directly to the goal you've set and verify that it will actually get you there. This is where you need to dig deeper than the marketing slogans and smiling faces on course websites or book jackets to ask "will this help me accomplish the goal I've set or not?"
+
+3. **Focus and avoid distractions** because, if you're the kind of person who's interested in learning to code, you're also the kind of person who gets interested by learning all kinds of other awesome things. When coding gets difficult, you need to be able to push forward instead of just trying out the next cool-looking thing.
+
+**IV: Surviving the Upswing of Awesome**
+----------------------------------------
+
+1. **Seek and follow best practices for programming**. You need to understand the difference between a **solution** and the **best solution**. Best practices are a major difference between hacking on your own and building production quality code in a real job setting.
+
+2. **Check your assumptions** because you've probably skated by with some gaping holes in your knowledge that you didn't even know you had. You need to diagnose and fix these holes.
+
+3. **Tackle the unsexy skills** that are rarely addressed but highly important for transitioning into a professional setting. This includes things like **testing**, **data modeling**, **architecture** and **deployment** which are really easy to breeze past but which are totally fundamental to good development.
+
+**Students that self-studied have major consequences**
+=======================================================
+
+- Pushing through the Upswing of Awesome is to get feedback. Students who have learned entirely on their own may be productive but rarely have the kind of legible, modular, and maintainable code that makes them attractive in a professional setting. You need to work with other humans who will challenge your assumptions, ask piercing followup questions, and force you to fix the leaks in your bucket of knowledge.
