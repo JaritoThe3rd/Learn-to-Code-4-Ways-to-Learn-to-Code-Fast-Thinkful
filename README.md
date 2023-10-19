@@ -171,3 +171,29 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 2. The Cliff of Confusion
 
 - Painful realization that you can't do anything in your own yet without asking any questions and making too many mistakes.
+- Your main problems are constant debugging and not quite knowing how to ask the right questions as your momentum gets consistently halted.
+
+3. The Desert of Despair
+
+- Long and lonely journey through a pathless landscape where every new direction seems correct.
+- You're starving for more accurate resources and simple instructions to execute your project or understand the concept.
+
+4. Upswing of Awesome
+
+- Pulling yourself together and understanding and executing how to build applications.
+- But your code is still house of cards.
+- Your website or project seems to run. you've mastered a few useful patterns, and your friends think your interfaces are cool
+- You're at the production ready code, but still wondering how to get the actual job.
+
+**Phase II: The Cliff of Confusion**
+-----------------------------------
+
+- You've arrived at the "Peak of Irrational Exuberance"
+- It occurs during many aspiring learners just went through suffering and lost their dreams.
+- It begins when you started to make your own project from scratch without looking at your notes or asking someone for help.
+
+**Starship Troopers Bug Attack**
+--------------------------------
+
+- The most frustrating phase to witness from an educator and participants of the industry.
+- Programming may not be perfect for anyone, but small things can be a huge success for someone.
