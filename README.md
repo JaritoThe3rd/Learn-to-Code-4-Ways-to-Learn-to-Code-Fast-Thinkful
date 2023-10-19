@@ -5,7 +5,7 @@ Rewatch this video: https://youtu.be/xv_viTuyrHw
 **Timestamps for specific topics**
 ==================================
 To the people who are lazy. This is literally in the description.
-
+---------------------------------------------------------
 10:35 - The importance of learning patterns
 
 15:47 - Re-try old problems
@@ -26,7 +26,11 @@ To the people who are lazy. This is literally in the description.
 
 **Notes about the video**
 ========================
-Your learning circle should be 
+The importance of learning patterns:
+------------------------------------
+  Always pay attention to patterns as you're learning every concept.
+Your learning circle should be:
+-----------------------------------
 1. Research (Knowing where to search the structure of your study material)
 2. Content (Knowing if you learn more while doing or reading)
 3. Building (Build your own projects in every concept to build upon and remember)
