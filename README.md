@@ -29,6 +29,16 @@ To the people who are lazy. This is literally in the description.
 The importance of learning patterns:
 ------------------------------------
   Always pay attention to patterns as you're learning every concept.
+  
+Re-try old problems:
+---------------------
+
+Practice atleast 5 times:
+-------------------------
+
+Allocate your time:
+---------------------
+
 Your learning circle should be:
 -----------------------------------
 1. Research (Knowing where to search the structure of your study material)
