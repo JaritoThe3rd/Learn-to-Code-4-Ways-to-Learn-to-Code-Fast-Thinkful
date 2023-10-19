@@ -71,6 +71,11 @@ Either it's duh or why?
 3. Health (Exercise, Sleep 7 hours, food you're eating, and proper and consistent hygiene)
 4. Personal time and friends whether related or unrelated to your career
 
+**Difference between happiness and fullfilment**
+-------------------------------------------------
+
+- Happiness is temporary and fullfilment is eternal.
+
 Your learning circle should be:
 -----------------------------------
 
