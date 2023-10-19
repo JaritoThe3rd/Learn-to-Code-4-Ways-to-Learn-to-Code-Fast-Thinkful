@@ -126,6 +126,30 @@ Your learning circle should be:
 - Most people skip the teaching part, which is really important for executing what you learned.
 - Make a youtube video about what you learned and watch how you explained it.
 
+**Networking is really crucial at getting a career even when you're not in the industry yet**
+=============================================================================================
+
+1. Most people don't network very well
+2. Not good enough portfolio AKA projects done
+3. Lacking interview skills
+
+**Why the university has failed a lot of computer science students in the long-run and achieving their career early on**
+=============================================================================================
+
+1. They thought that learning a piece about everything is great.
+2. Instead of focusing more on programming skills and mastering. 
+3. Switching languages too much and not focusing on project based learning.
+4. Junior and senior is all about theory and no implementation.
+5. Not being able to build and teach anything through coding.
+
 ![image](https://github.com/JaritoThe3rd/Learn-to-Code-4-Ways-to-Learn-to-Code-Fast-Thinkful/assets/105878774/97f8e389-4a0e-4100-8134-7b78c4adcab0)
 
+**Why Learning to Code is So Damn Hard
+By Erik Trautman**
+=======================================
+
+https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
+
+**Phase I: The Hand-Holding Honeymoon**
+--------------------------------
 
